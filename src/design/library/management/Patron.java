@@ -1,4 +1,4 @@
-package com.akshay.suresh.design.library.management;
+package design.library.management;
 
 public class Patron {
 	

@@ -1,4 +1,4 @@
-package com.akshay.suresh.design.supermarket;
+package design.supermarket;
 
 public class GroceryStore {
 

@@ -1,4 +1,4 @@
-package com.akshay.suresh.design.library.management;
+package design.library.management;
 
 import java.util.HashMap;
 import java.util.Map;

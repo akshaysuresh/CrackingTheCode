@@ -1,4 +1,4 @@
-package com.akshay.suresh.design;
+package design;
 
 import java.io.DataInputStream;
 import java.io.File;

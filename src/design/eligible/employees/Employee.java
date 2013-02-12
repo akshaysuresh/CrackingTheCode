@@ -1,4 +1,4 @@
-package com.akshay.suresh.design.eligible.employees;
+package design.eligible.employees;
 
 //If the employee satisfied any two of this conditioms, give him a hike
 // Been with the company for 5 yrs

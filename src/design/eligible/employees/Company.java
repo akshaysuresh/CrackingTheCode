@@ -1,4 +1,4 @@
-package com.akshay.suresh.design.eligible.employees;
+package design.eligible.employees;
 
 import java.util.ArrayList;
 
